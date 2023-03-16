@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(to left top, rgba(255, 255, 0, 0.475), rgba(255, 0, 0, 0.36), rgba(255, 255, 0, 0.479));
+  
+}
+a{
+  background-color: beige;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+button {
+  position: relative;
+  background-color: grey;
+  
+}
+button:hover {
+  background-color: #446677;
+  
+}
